@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <Request>
+    <IsValid>True</IsValid>
+    <ItemSearchRequest>
+      <Author>Denis Skaza</Author>
+      <SearchIndex>User</SearchIndex>
+    </ItemSearchRequest>
+  </Request>
+  <TotalResults>5</TotalResults>
+  <TotalPages>1</TotalPages>
+  <Item>
+    <ASIN>1</ASIN>
+    <ItemAttributes>
+      <dateinserted>2016-05-23</dateinserted>
+      <username>denis</username>
+      <Firstname>Denis</Firstname>
+      <lastName>Skaza</lastName>
+      <role>Administrator</role>
+    </ItemAttributes>
+  </Item>
+  <Item>
+    <ASIN>2</ASIN>
+    <ItemAttributes>
+      <dateinserted>2016-05-23</dateinserted>
+      <username>janezn</username>
+      <Firstname>janez</Firstname>
+      <lastName>janez</lastName>
+      <role>User</role>
+    </ItemAttributes>
+  </Item>
+  <Item>
+    <ASIN>3</ASIN>
+    <ItemAttributes>
+      <dateinserted>2016-05-23</dateinserted>
+      <username>peterj</username>
+      <Firstname>Peter</Firstname>
+      <lastName>Jelen</lastName>
+      <role>User</role>
+    </ItemAttributes>
+  </Item>
+  <Item>
+    <ASIN>4</ASIN>
+    <ItemAttributes>
+      <dateinserted>2016-05-24</dateinserted>
+      <username>markok</username>
+      <Firstname>Marko</Firstname>
+      <lastName>Koren</lastName>
+      <role>Subscriber</role>
+    </ItemAttributes>
+  </Item>
+  <Item>
+    <ASIN>5</ASIN>
+    <ItemAttributes>
+      <dateinserted>2016-05-25</dateinserted>
+      <username>iztoka</username>
+      <Firstname>Iztok</Firstname>
+      <lastName>Anclin</lastName>
+      <role>Administrator</role>
+    </ItemAttributes>
+  </Item>
+  <!-- 
+      <Item>
+            <ASIN>6</ASIN>
+            <DetailPageURL>
+                http://www.amazon.com/gp/redirect.html%3FASIN=0446341916%26tag=ws%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0446341916%253FSubscriptionId=1A7XKHR5BYD0WPJVQEG2
+            </DetailPageURL>
+            <ItemAttributes>
+                <Author>Sidney Sheldon</Author>
+                <Manufacturer>Warner Books</Manufacturer>
+                <ProductGroup>Book</ProductGroup>
+                <Title>The Naked Face</Title>
+            </ItemAttributes>
+        </Item>
+      -->
+</Items>

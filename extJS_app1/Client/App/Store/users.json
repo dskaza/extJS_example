@@ -1,0 +1,14 @@
+{ 	
+	"users": [
+		{ "dateinserted": "2016-05-23", "username": "denis", "Firstname": "Denis", "lastName": "Skaza", "role" : "Administrator" },
+        { "dateinserted": "2016-05-23", "username": "janezn", "Firstname": "janez", "lastName": "janez", "role": "User" },
+        { "dateinserted": "2016-05-24", "username": "peterj", "Firstname": "Peter", "lastName": "Jelen", "role": "User" },
+        { "dateinserted": "2016-05-24", "username": "markok", "Firstname": "Marko", "lastName": "Koren", "role": "Subscriber" },
+        { "dateinserted": "2016-05-26", "username": "iztoka", "Firstname": "Iztok", "lastName": "Anclin", "role": "Administrator" },            
+        { "dateinserted": "2016-06-09", "username": "markoj", "Firstname": "Marko", "lastName": "Jelen", "role": "Author" },            
+        { "dateinserted": "2016-06-09", "username": "janezj", "Firstname": "Janez", "lastName": "Jelen", "role": "Contributor" },            
+        { "dateinserted": "2016-06-09", "username": "francj", "Firstname": "Franc", "lastName": "Jelen", "role": "Subscriber" },        
+        { "dateinserted": "2016-06-09", "username": "user09", "Firstname": "Editor", "lastName": "1", "role": "Editor" },            
+        { "dateinserted": "2016-06-09", "username": "user10", "Firstname": "Guest", "lastName": "1", "role": "Guest" }           
+	]
+}

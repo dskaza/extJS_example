@@ -1,0 +1,2416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userDetailsForm"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"record",
+				"recordCount"
+			],
+			[
+				"cac",
+				"cachedwithin	@cachedwithin"
+			],
+			[
+				"klasOznaka",
+				"klasOznakaDelna"
+			],
+			[
+				"datapart",
+				"DATAPARTCOUNT"
+			],
+			[
+				"argum",
+				"argumentcollection"
+			],
+			[
+				"vrsta",
+				"vrstaPodatkov"
+			],
+			[
+				"null",
+				"NULL"
+			],
+			[
+				"zadeva",
+				"zadevaId"
+			],
+			[
+				"type",
+				"type=\"string\"	type"
+			],
+			[
+				"listFind",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"array",
+				"arrayAppend	fn. (cfscript)"
+			],
+			[
+				"cfelse",
+				"cfelse	Tag (cmfl)"
+			],
+			[
+				"listfind",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"FLOW",
+				"flowId"
+			],
+			[
+				"ty",
+				"type=\"boolean\"	type"
+			],
+			[
+				"datotekaVe",
+				"datotekaVelikost"
+			],
+			[
+				"datoteka",
+				"datotekaVerzija"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"datotekaI",
+				"datotekaIzdaja"
+			],
+			[
+				"action",
+				"action=\"list\"	action"
+			],
+			[
+				"karticaDa",
+				"karticaDatotekaDigestEnak"
+			],
+			[
+				"karticaDatoe",
+				"karticaDatotekaDigest"
+			],
+			[
+				"queryAddt",
+				"queryAddRow	fn. (cfscript)"
+			],
+			[
+				"metapoda",
+				"metaPodatekId"
+			],
+			[
+				"partner",
+				"partnerIdSrch"
+			],
+			[
+				"povezava",
+				"povezanaZadevaId"
+			],
+			[
+				"structKey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"query",
+				"queryNew	fn. (cfscript)"
+			],
+			[
+				"history",
+				"zadeveHistoryList"
+			],
+			[
+				"script",
+				"scriptUUID"
+			],
+			[
+				"postavi",
+				"postavitevName"
+			],
+			[
+				"requ",
+				"required=\"false\"	required"
+			],
+			[
+				"postave",
+				"postavitevId"
+			],
+			[
+				"lstData",
+				"lstData"
+			],
+			[
+				"tipPos",
+				"tipPosiljkeID"
+			],
+			[
+				"userTipID",
+				"userTipId"
+			],
+			[
+				"userTip",
+				"userTipId"
+			],
+			[
+				"struct",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"rre",
+				"required=\"true\"	required"
+			],
+			[
+				"tippoda",
+				"tipPodatkaTip"
+			],
+			[
+				"kontrol",
+				"kontrolniIzpisPodpisov"
+			],
+			[
+				"listf",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"istance",
+				"instanceId"
+			],
+			[
+				"find",
+				"findNoCase	fn. (cfscript)"
+			],
+			[
+				"instanceI",
+				"instanceIme"
+			],
+			[
+				"expand",
+				"expand=\"false\"	expand"
+			],
+			[
+				"ex",
+				"expand=\"false\"	expand"
+			],
+			[
+				"deloto",
+				"delotokUUId"
+			],
+			[
+				"listif",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"add",
+				"addnewline=\"true\"	addnewline"
+			],
+			[
+				"a",
+				"action=\"write\"	action"
+			],
+			[
+				"read",
+				"readonlyInt"
+			],
+			[
+				"replace",
+				"replace	fn. (cfscript)"
+			],
+			[
+				"storage",
+				"storageId"
+			],
+			[
+				"APPLICAT",
+				"application"
+			],
+			[
+				"aktivna",
+				"aktivnaObdelavaId"
+			],
+			[
+				"qSele",
+				"qSelectKlasId"
+			],
+			[
+				"re",
+				"returntype=\"String\"	returntype"
+			],
+			[
+				"odos",
+				"odos_obdelave"
+			],
+			[
+				"partneri",
+				"partnerId"
+			],
+			[
+				"klas",
+				"klasifikacija"
+			],
+			[
+				"qzadeve",
+				"qZadevaNew"
+			],
+			[
+				"qzadeva",
+				"qZadevaNew"
+			],
+			[
+				"qZadeva",
+				"qZadevaNew"
+			],
+			[
+				"required",
+				"required=\"false\"	required"
+			],
+			[
+				"sifrant",
+				"sifrantNaziv"
+			],
+			[
+				"POSTOPE",
+				"postopekTipId"
+			],
+			[
+				"parcelaID",
+				"parcelaId"
+			],
+			[
+				"zadevaID",
+				"zadevaId"
+			],
+			[
+				"lis",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"klasID",
+				"klasId"
+			],
+			[
+				"listfi",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"list",
+				"listAppend	fn. (cfscript)"
+			],
+			[
+				"wgisZade",
+				"wGisZadevaId"
+			],
+			[
+				"podate",
+				"podatekID"
+			],
+			[
+				"instance",
+				"instanceId"
+			],
+			[
+				"datotekaPovezava",
+				"datotekaPovezavaAktivna"
+			],
+			[
+				"parcs",
+				"parcStevData"
+			],
+			[
+				"katObcina",
+				"katObcinaSifrantId"
+			],
+			[
+				"e",
+				"expand=\"false\"	expand"
+			],
+			[
+				"cfels",
+				"cfelse	Tag (cmfl)"
+			],
+			[
+				"dbTY",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"rl",
+				"url"
+			],
+			[
+				"URL",
+				"url"
+			],
+			[
+				"cfe",
+				"cfelse	Tag (cmfl)"
+			],
+			[
+				"daotekaId",
+				"helpDatotekaID"
+			],
+			[
+				"datotek",
+				"datotekaId"
+			],
+			[
+				"obdelav",
+				"obdelavaId"
+			],
+			[
+				"obdelavad",
+				"obdelavaId"
+			],
+			[
+				"table",
+				"tableExists"
+			],
+			[
+				"cf",
+				"cfelse	Tag (cmfl)"
+			],
+			[
+				"rec",
+				"recurse=\"false\"	recurse"
+			],
+			[
+				"APPLI",
+				"application"
+			],
+			[
+				"status",
+				"statusId"
+			],
+			[
+				"EROR",
+				"ERROR"
+			],
+			[
+				"result",
+				"result_"
+			],
+			[
+				"kontozahteva",
+				"kontoZahtevanPlanPost"
+			],
+			[
+				"listifi",
+				"listFind	fn. (cfscript)"
+			],
+			[
+				"dbty",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"omogo",
+				"omogocenoIskanjePoMetaPodatkih"
+			],
+			[
+				"structKer",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"require",
+				"required=\"true\"	required"
+			],
+			[
+				"surve",
+				"surveyassignmentid"
+			],
+			[
+				"pogodbaV",
+				"pogodbaVnos"
+			],
+			[
+				"plan",
+				"planPostavkaSifra"
+			],
+			[
+				"vrednostID",
+				"vrednostId"
+			],
+			[
+				"parent",
+				"parentZadevaId"
+			],
+			[
+				"compa",
+				"compareNoCase	fn. (cfscript)"
+			],
+			[
+				"pozici",
+				"pozicijaPlana_column"
+			],
+			[
+				"konto_",
+				"konto_label_column"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"konto",
+				"konto_label"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"ins",
+				"instanceId"
+			],
+			[
+				"KONTO",
+				"KONTONAZIV"
+			],
+			[
+				"planpostav",
+				"planPostavkaId"
+			],
+			[
+				"oddelek",
+				"oddelek_label"
+			],
+			[
+				"create",
+				"createODBCDate	fn. (cfscript)"
+			],
+			[
+				"write",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"strc",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"q",
+				"querySetCell	fn. (cfscript)"
+			],
+			[
+				"listd",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"podrocje",
+				"podrocjeKuvert"
+			],
+			[
+				"deli",
+				"delimiters=\",\"	delimiters"
+			],
+			[
+				"ite",
+				"delimiters=\",\"	delimiters"
+			],
+			[
+				"new",
+				"addnewline=\"true\"	addnewline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nvar Grid1Store = new Ext.data.JsonStore({\n    fields: ['id', 'name', 'email'],\n    //autoLoad: true,\n    proxy: {\n        type: 'ajax',\n        url: 'users.json',\n        reader: { root: 'users'}\n    }\n});\n\n",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "App/readme.md",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\nvar Grid1Store = new Ext.data.JsonStore({\n    fields: ['id', 'name', 'email'],\n    //autoLoad: true,\n    proxy: {\n        type: 'ajax',\n        url: 'users.json',\n        reader: { root: 'users'}\n    }\n});\n\n",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Full Throttle Websites\n\n\n\n\n1. FULL THROTTLE WEBSITES Andrew Dixon @aandrewdixon\n2. Why should I care about page load speed?\n3. Human Perception • Up 100ms feels instant • 300 – 1000ms tiny bit sluggish • > 1 seconds slow • 10 seconds+ give up\n4. Where the web started 1 HTTP request 2.4Kb\n5. Where we are today… 170 HTTP requests 2.7Mb\n6. The evolution of websites\n7. How to find your sites speed…\n8. YSlow\n9. PageSpeed\n10. Browser Tools\n11. Time to fix it…\n12. Images • Sprite images • Optimise images For NodeJS: • ImageMin • gulp-imagemin • grunt-contrib-imagemin\n13. JavaScript and CSS • Use a task runner to reduce: – Optimise images – Combine JS – Combine CSS – Minify JS – Minify CSS – Removed unused CSS\n14. UnCSS • NodeJS tool • Grunt and Gulp version available • Easy to use with static sites • Works with dynamic sites\n15. Static / Generated Sites • Removes the application server overhead • More scope for web server optimisations • Easier to distribute and host via a CDN\n16. Application Level Caching • Evaluate site / application • Cache data • Only get data again once stale • ACF & Lucee – CachePut, CacheGet and CacheIDExists / CacheKeyExists\n17. Web Server Optimisations • Enable compression • Add expiry headers • Turn off unused modules • Turn on Keep-Alive • Check max clients, spare threads, etc…\n18. PageSpeed Module\n19. Using a CDN\n20. • Don’t want to / can’t use a CDN • Use for assets like JS, CSS and images – e.g. http://assets.examples.com • Reduces HTTP request overhead\n21. Distributed DNS • Improves DNS lookup speed • Improves regional performance • Geo-routing local nodes • AWS Route 53 • CloudFlare\n22. Integrate Speed with CI • To spot regressions • Webpagetest CLI • PageSpeed Insights CLI • Phantomas CLI\n23. You wouldn’t want to download a whale…",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/grid/array-grid.js",
+			"settings":
+			{
+				"buffer_size": 7362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.html",
+			"settings":
+			{
+				"buffer_size": 16295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/CalendarPanel.js",
+			"settings":
+			{
+				"buffer_size": 19696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/views/DayBodyView.js",
+			"settings":
+			{
+				"buffer_size": 16753,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/views/DayHeaderView.js",
+			"settings":
+			{
+				"buffer_size": 3820,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/templates/BoxLayoutTemplate.js",
+			"settings":
+			{
+				"buffer_size": 6409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/templates/DayViewTemplate.js",
+			"settings":
+			{
+				"buffer_size": 2244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/widgets/CalendarPicker.js",
+			"settings":
+			{
+				"buffer_size": 2589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.js",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/tree-data.json",
+			"settings":
+			{
+				"buffer_size": 1343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.css",
+			"settings":
+			{
+				"buffer_size": 2932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/basic.js",
+			"settings":
+			{
+				"buffer_size": 11887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/combination.js",
+			"settings":
+			{
+				"buffer_size": 7997,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/custom.js",
+			"settings":
+			{
+				"buffer_size": 1578,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 63.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"ident",
+				"Indent XML"
+			],
+			[
+				"iden",
+				"Indent XML"
+			],
+			[
+				"mar",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"JSON",
+				"Indent JSON"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mark",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"hmlt",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"htl",
+				"Snippet: html"
+			],
+			[
+				"xl",
+				"Indent XML"
+			],
+			[
+				"ma",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packg contr",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"MAR",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cold",
+				"ColdFusion: Insert CFlib UDF"
+			],
+			[
+				"jvascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"XML",
+				"Indent XML"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: cffunction"
+			],
+			[
+				"HTML",
+				"Snippet: html"
+			],
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"marku",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"amrku",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"MARKU",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"m arku",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"tortoise",
+				"Preferences: Tortoise Settings – User"
+			],
+			[
+				"torto",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/templates/MonthViewTemplate.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/views/DayView.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/EventEditForm.js",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/localization/localization.js",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/localization/assignmentdata.js",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/labels/tasks.xml",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/labels/labels.html",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/Java CRUD demo/sql/setup.sql",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/MSProject_import/AdvancedExample.mpp",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/MSProject_import/import.html",
+		"/C/Users/denis/Downloads/Bryntum-4.x-45d-trial/Bryntum-4.x-45d-trial/gantt-pro-4.2.1-trial/examples/MSProject_import/import.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client – kopija/App/script/absform.js",
+		"/C/share/export/new/EPP01_exportOddelki.csv",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/Store/users.json",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/tabs.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/app.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/application.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/applicationError.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/tools/brisiVsebinoTabele.cfm",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/index.aspx",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/grid.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/absform.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/index.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/index_form_test2.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/index_form_test.html",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/js/main.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/analize/analize_functions.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/print/obcina_letnoA1.cfm",
+		"/C/Users/denis/AppData/Local/Temp/15_06_2016.log.sql",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/urnikiIzvajanje_cakajoceAkcije.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/zadeve.cfc",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/readme.md",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi00_aktualneNeprazneTabele.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi20_exportZadeve.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi04_exportPartnerji.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi32_uvozDatotekDirekt.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/mxi2/MXI02_exportSifrantiZaposleni.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/GP/GP21_exportPrilogeVsebina.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/GP/GP20_exportZadeve.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi02_exportSignirji.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/vopi/vopi31_uvozDatotek.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/lotus/04_exportPartnerji.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/i-agent/28_exportDokumentiPriponke.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/i-agent/30_importFilesInStorage.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/zadeve_datoteke.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/import/obcine/lotus/06_exportZadev.cfm",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/xml-grid.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/Tree.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/Request.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/JsonWriter.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/JsonStore.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/JsonReader.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/HttpProxy.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/DataProxy.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/DataField.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/ArrayStore.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/WebApplication_extJS/ext-3.4.1.1-commercial/ext-3.4.1/src/data/ArrayReader.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/column-tree.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/example_combobox.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/example_grid.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/app_oldTree.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/indexTree.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/example_readjson.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/tree_test.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/tree_test2.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/tree_test_1.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/tree_test3.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/Store/users.xml",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/jsonparser.htm",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/Store/states.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/user_list.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/test_clickPanel.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/Store/usersTree.json",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/tabs-example.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/users.json",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/json-grid.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/example_readJson_1.html",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/obcina.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/obcina_include_glavaPost.cfm",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/obcina_include_glavaPost_sarajevoNG.cfm",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/user_details.html",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/script/ux/ColumnNodeUI.js",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/resources/css/examples.css",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/resources/css/grid-examples.css",
+		"/C/Users/denis/Documents/Visual Studio 2010/Projects/extJS_app1/extJS_app1/Client/App/resources/css/column-tree.css",
+		"/C/InetPub/wwwroot/ODOS_enterprise/app/index2.cfm",
+		"/C/inetpub/wwwroot/dev/ionic_examples/readme_navodila.txt",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/tools/spomin.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/install/Nightwatch/tests/Upravno/flow-evidencno.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/install/Nightwatch/lib/commands/navigateToMenuDOM.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/install/Nightwatch/nightwatchUpravno.json",
+		"/C/inetpub/wwwroot/ODoS_enterprise/install/Nightwatch/lib/globalsUpravno.js",
+		"/C/inetpub/wwwroot/cfmailgun/README.md",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/js/gmaps.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/js/googlemaps.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/gmaps_js_demo.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/gmaps.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/ODOS_exchange/tr_Documents.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/oex_prenosi.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/fileReadBinary.cfm",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/grad.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/grad.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/obcina_include_narisiGlavo_sarajevoNG.cfm",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/obcina_sarajevoNG.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1509/urnikiIzvajanje_sourceUpdate.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/tools/popraviNotNullTabele.cfm",
+		"/C/inetpub/wwwroot/ODOS_R1509/urnikiIzvajanje.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/nabava_likvidacija.cfm",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/nabava_likvidacija.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/users.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/install/updateDB_functions.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/obcina.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/obcina_include_narisiGlavo.cfm",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/ODOS_exchange/tr_gis_dokumenti.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1509/cfc/ODOS_exchange/tr_gis_dokumenti.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/install/grad/06_po_vnos_pogodbe.sql",
+		"/c/inetpub/wwwroot/odos_enterprise/app/install/base_mssql.sql",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/functions.cfc",
+		"/C/Users/denis/Downloads/tr_gis_dokumenti_example.xml",
+		"/C/inetpub/wwwroot/ODOS_R1505/cfc/obcina.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/pv.cfc",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/server.json",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/js/ace/mode-json.js",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/remote/remote.cfc",
+		"/C/Users/denis/Downloads/users.json",
+		"/C/inetpub/wwwroot/ODoS_enterprise/app/cfc/datotekeEditor.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1505/cfc/datotekeEditor.cfc",
+		"/C/inetpub/wwwroot/ODOS_R1405/cfc/datotekeEditor.cfc"
+	],
+	"find":
+	{
+		"height": 220.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			", C:\\\\Users\\\\denis\\\\Documents\\\\Visual Studio 2010\\\\Projects\\\\extJS_app1\\\\extJS_app1\\\\Client\\\\App\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\CFC\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\CFC\\ODOS_EXCHANGE ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\import\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\import\\obcine ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\css ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\l ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\import ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\n, ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml\n",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\merlin ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\js ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\install ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\cfc ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\ ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml",
+			", c:\\\\inetpub\\\\wwwroot\\\\odos_enterprise\\\\app\\\\lang ,*.cfm,*.cfc,*.css,*.js,*.cfg,*.si,*.bo,*.sql,*.xml"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"absolute",
+			"onerr",
+			"openHTML",
+			"odpriPopupDivQueryString",
+			"initLabels",
+			"strSave",
+			"storeusersJSON",
+			"6",
+			"05-26",
+			"strg",
+			"Ext.iterate",
+			"storeusersXML",
+			"clickUser",
+			"firstName",
+			"firstname",
+			"Firstname",
+			"firstname",
+			"Firstname",
+			"usersList",
+			"Ext.userData.usersList",
+			"storeusers",
+			"storeusers2",
+			"storeusers",
+			"<!--- ARHIVIRANJE ZADEVE --->",
+			"zabeleziZgodovino",
+			"shraniZgodovinoZadeve",
+			"qZadevaForHistory",
+			"shranizgodov",
+			"LSTZADTEKOCST",
+			"zadevaTekocaStevilka",
+			"WHEN z.customCount4 = 1 THEN '#application.lng.getStr(\"lstZapadlost_1\")#' ",
+			"mystore",
+			"console",
+			"denis.ska",
+			"vpregled",
+			"posljiMejl",
+			"result",
+			"schema",
+			"where stevpog",
+			"<cfset f.racun = f.racun & \" - ZAVRNJEN RAČUN v GRADu [GRAD datum spremenjeno: #f.qGradRacun.spremenjeno#, GRAD status '#f.qGradRacun.orig_status_mec#']\">							",
+			"qZadeva",
+			"preveriGradIdPogodbe",
+			"stevpog",
+			"updatePostavkaSourceTargetData",
+			"mt_nabPotrebaPozicijePlana",
+			"select ",
+			"lpc_error",
+			"tmp_dm",
+			"po_narocila_dok_sis",
+			" sp_newSequence",
+			"zapisa",
+			"zapisano",
+			"sp_newSequence",
+			" sp_newSequence",
+			"aktivnaObdelavaId",
+			"showButtons",
+			"glavnapisarna",
+			"getUsers",
+			"storno dobavnica ",
+			"pripraviZaIzdanRacun",
+			"_vnos_izdana_dobavnica",
+			"HTZ_vnos_izdana_dobavnica",
+			"historyDateCreated",
+			"colDatumKreiranja",
+			"beforeObdelavaDrawFunction",
+			"addKlasifikacija",
+			"klasTip=\"62\"",
+			"beforeObdelavaDrawFunction",
+			"addKlasifikacijaPametno",
+			"qObstaja",
+			"cached",
+			"qObstaja",
+			"cachedwithin",
+			"iKlasTip",
+			"klasTip=\"60\"",
+			"lstData",
+			"statusIDNotIN",
+			"hid",
+			"datotekaPovezavaId",
+			"nerdatotekaId",
+			"statusId",
+			"exclude",
+			"datotekaNaDiskDelnoV2",
+			"error w",
+			"parentda",
+			"readbinary",
+			"binFileData",
+			"m_desktop_obrazci_odbiranjeGradiva",
+			"izvediAkcijoVertexa",
+			"<cfif flowResult.vseObdelaveID eq \"\">",
+			"vseObdelaveId",
+			"aktivnaObdelavaId",
+			"gradPrikazPlana",
+			"vrstaDokumentaZaZakljucit",
+			"429",
+			"422",
+			"35101",
+			"35104",
+			"35004",
+			"353",
+			"45400",
+			"4780",
+			"478",
+			"3506",
+			"3501",
+			"46401",
+			"strNewTargetFile",
+			"readbinary",
+			"dodajNaZadevo",
+			"gisZapisParcelNaZadevo",
+			"zapisiNaZadevo",
+			"preveriDodajanjeParcel",
+			"postavkaedi",
+			"datum",
+			"session.edtBlagajna.frame",
+			"dokUpdate",
+			"postavkaInsert",
+			"dokUpdate",
+			"webServiceCall",
+			"cda",
+			"wsdl",
+			"multipart",
+			"multipra",
+			"uploadtra",
+			"upload",
+			"READBINARY",
+			"partnerId",
+			"qPartner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"klasTip=\"63\"",
+			"addKlasifikacija",
+			"klasTip=\"62\"",
+			"for",
+			"session.podrocjaImport",
+			"'\npaketPodrocjaImport",
+			"'",
+			"			\n",
+			"session.progress",
+			"progress",
+			"session.progress",
+			"f.safeDatotekaOpis",
+			"",
+			"f.qMessage.messageAttachFile",
+			"f.qMessage.messageMailServer",
+			"f.qMessage.messageMailTo",
+			"f.qMessage.messageMailFrom",
+			"f.charset",
+			"f.qMessage.messageMailReplyTo",
+			"f.qMessage.messageMailBCC",
+			"f.qMessage.messageMailCC",
+			"f.qMessage.messageMailPort",
+			"f.qMessage.messagePriority",
+			"f.qMessage.meSsagecontentSubject",
+			"f.qMessage.messagecontenttext",
+			"qMessage.messageContentSubject",
+			"qMessage.messagecontenttext",
+			"qMesage",
+			"gMessage.messageContentText",
+			"sStoritvijo",
+			"odkupnine.stOdkupnin",
+			"sStoritvijo.stSStoritvijo",
+			"vrocilnice.stVrocilnic",
+			"vrednostnaPisma.stVrednostnih",
+			"priporocenaPisma.stPriporocenih",
+			"lstDataU",
+			"session.podrocjeZgodovinaID",
+			"cfquery1(",
+			"uporabnikId",
+			"								",
+			"fltVeljaven",
+			"Odpiranje datoteke",
+			"f.qPogodbaPripombe",
+			"f.qGarancije",
+			"arguments.qGarancije",
+			"f.qPogodbe",
+			"kreirajPredefiniranoZadevo_noTr",
+			"createFieldName",
+			"stdPotniNapis",
+			"#stdPotniNapis#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "App/readme.md",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1002,
+								1002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/grid/array-grid.js",
+					"settings":
+					{
+						"buffer_size": 7362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4695,
+								4695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1106.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.html",
+					"settings":
+					{
+						"buffer_size": 16295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5846,
+								5846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1683.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/CalendarPanel.js",
+					"settings":
+					{
+						"buffer_size": 19696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19157,
+								19157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6420.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/views/DayBodyView.js",
+					"settings":
+					{
+						"buffer_size": 16753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16011,
+								16011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5305.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/views/DayHeaderView.js",
+					"settings":
+					{
+						"buffer_size": 3820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 843.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/templates/BoxLayoutTemplate.js",
+					"settings":
+					{
+						"buffer_size": 6409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4200,
+								4200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/templates/DayViewTemplate.js",
+					"settings":
+					{
+						"buffer_size": 2244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1545,
+								1545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/calendar/src/widgets/CalendarPicker.js",
+					"settings":
+					{
+						"buffer_size": 2589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2236,
+								2286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.js",
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3612,
+								3612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 891.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/tree-data.json",
+					"settings":
+					{
+						"buffer_size": 1343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 646.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layout-browser.css",
+					"settings":
+					{
+						"buffer_size": 2932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/basic.js",
+					"settings":
+					{
+						"buffer_size": 11887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10247,
+								10247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/combination.js",
+					"settings":
+					{
+						"buffer_size": 7997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2940.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/denis/Documents/Visual Studio 2010/Projects/ext-3.4.1.1-commercial/ext-3.4.1/examples/layout-browser/layouts/custom.js",
+					"settings":
+					{
+						"buffer_size": 1578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1055,
+								1055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.973958333333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.vcs":
+	{
+		"height": 326.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"risvsebinotabele",
+				"ODoS_enterprise/app/tools/brisiVsebinoTabele.cfm"
+			],
+			[
+				"apcfc",
+				"ODoS_enterprise/app/application.cfc"
+			],
+			[
+				"onerr",
+				"ODoS_enterprise/app/applicationError.cfm"
+			],
+			[
+				"obccfc",
+				"ODoS_enterprise/app/cfc/obcina.cfc"
+			],
+			[
+				"analzefunc",
+				"ODoS_enterprise/app/analize/analize_functions.cfm"
+			],
+			[
+				"obcinea1",
+				"ODoS_enterprise/app/print/obcina_letnoA1.cfm"
+			],
+			[
+				"cakajoakcije",
+				"ODoS_enterprise/app/urnikiIzvajanje_cakajoceAkcije.cfm"
+			],
+			[
+				"zadecfc",
+				"ODoS_enterprise/app/cfc/zadeve.cfc"
+			],
+			[
+				"mainjs",
+				"ODoS_enterprise/app/js/main.js"
+			],
+			[
+				"vopiexport",
+				"ODoS_enterprise/app/import/obcine/vopi/vopi02_exportSignirji.cfm"
+			],
+			[
+				"zadeve",
+				"ODoS_enterprise/app/zadeve_datoteke.cfm"
+			],
+			[
+				"indexaspx",
+				"App/index.aspx"
+			],
+			[
+				"notnull",
+				"app/tools/popraviNotNullTabele.cfm"
+			],
+			[
+				"nablikvidac",
+				"app/cfc/nabava_likvidacija.cfm"
+			],
+			[
+				"gradcfc",
+				"app/cfc/grad.cfc"
+			],
+			[
+				"updatdbfun",
+				"app/install/updateDB_functions.cfm"
+			],
+			[
+				"userscfc",
+				"app/cfc/users.cfc"
+			],
+			[
+				"funcfc",
+				"app/cfc/functions.cfc"
+			],
+			[
+				"vnospogodbe",
+				"app/install/grad/06_po_vnos_pogodbe.sql"
+			],
+			[
+				"gisdokumenti",
+				"app/cfc/ODOS_exchange/tr_gis_dokumenti.cfc"
+			],
+			[
+				"narisglavo",
+				"app/cfc/obcina_include_narisiGlavo.cfm"
+			],
+			[
+				"pvcfc",
+				"app/cfc/pv.cfc"
+			],
+			[
+				"serverjson",
+				"app/server.json"
+			],
+			[
+				"json",
+				"app/js/ace/mode-json.js"
+			],
+			[
+				"vcfc",
+				"app/cfc/vep.cfc"
+			],
+			[
+				"klascfm",
+				"app/klasifikacije.cfm"
+			],
+			[
+				"obdcfc",
+				"app/cfc/obdelave.cfc"
+			],
+			[
+				"metapodacfc",
+				"app/cfc/metaPodatki.cfc"
+			],
+			[
+				"podrzade",
+				"app/podrocja_zadeve.cfm"
+			],
+			[
+				"autlodklas",
+				"app/import/autoload_klasifikacija.cfm"
+			],
+			[
+				"updatedbfun",
+				"app/install/updateDB_functions.cfm"
+			],
+			[
+				"nerazporejene",
+				"app/podrocja_nerazporejeneDatoteke.cfm"
+			],
+			[
+				"podre",
+				"app/podrocja_e.cfm"
+			],
+			[
+				"podrzadeve",
+				"app/podrocja_zadeve.cfm"
+			],
+			[
+				"signirjicfc",
+				"app/cfc/signirji.cfc"
+			],
+			[
+				"edsercfc",
+				"app/cfc/editorSearch.cfc"
+			],
+			[
+				"datedcfc",
+				"app/cfc/datotekeEditor.cfc"
+			],
+			[
+				"obcicfc",
+				"app/cfc/obcina.cfc"
+			],
+			[
+				"karticacfm",
+				"app/projekt_kartica.cfm"
+			],
+			[
+				"remotecfc",
+				"app/remote/remote.cfc"
+			],
+			[
+				"saoptest",
+				"app/tools/saop_test_eRacuni.cfm"
+			],
+			[
+				"trdocume",
+				"app/cfc/ODOS_exchange/tr_Documents.cfc"
+			],
+			[
+				"menu.si",
+				"app/lang/menu_st.si"
+			],
+			[
+				"podpriloge",
+				"app/import/autoload_podPriloge.cfm"
+			],
+			[
+				"autpdprilo",
+				"app/import/autoload_podPriloge.cfm"
+			],
+			[
+				"oddcfc",
+				"app/cfc/oddelki.cfc"
+			],
+			[
+				"sigcfc",
+				"app/cfc/signirji.cfc"
+			],
+			[
+				"documents",
+				"app/cfc/ODOS_exchange/tr_Documents.cfc"
+			],
+			[
+				"cadistest",
+				"app/tools/cadis_test_racuni.cfm"
+			],
+			[
+				"brisanjtepdat",
+				"app/urnikiIzvajanje_brisanjeTempDatotek.cfm"
+			],
+			[
+				"flowinclude",
+				"app/cfc/flow_includeIzvediAkcijoVertexa.cfm"
+			],
+			[
+				"izvediakcijo",
+				"app/tools/izvediEnoAkcijo.cfm"
+			],
+			[
+				"autzade",
+				"app/import/autoload_zadeve.cfm"
+			],
+			[
+				"autuporabniki",
+				"app/import/autoload_uporabniki.cfm"
+			],
+			[
+				"uicfc",
+				"app/cfc/ui.cfc"
+			],
+			[
+				"basemssql",
+				"app/install/base_mssql.sql"
+			],
+			[
+				"openxml",
+				"app/cfc/OpenXml.cfc"
+			],
+			[
+				"updateda",
+				"app/install/updateData.cfm"
+			],
+			[
+				"menidat",
+				"app/cfc/datoteke_include_meniDatoteke.cfm"
+			],
+			[
+				"datedi",
+				"app/cfc/datotekeEditor.cfc"
+			],
+			[
+				"oexprenos",
+				"app/oex_prenosi.cfm"
+			],
+			[
+				"lotusexport",
+				"app/import/obcine/lotus/06_exportZadev.cfm"
+			],
+			[
+				"epp2expzade",
+				"app/import/obcine/EPP2/EPP20_exportZadeve.cfm"
+			],
+			[
+				"epppriloge",
+				"app/import/obcine/EPP2/EPP22_exportPriloge.cfm"
+			],
+			[
+				"sourceupdate",
+				"app/urnikiIzvajanje_sourceUpdate.cfm"
+			],
+			[
+				"obcsi",
+				"app/lang/obcine/obcine.si"
+			],
+			[
+				"obnaris",
+				"app/cfc/obcina_include_narisiGlavo.cfm"
+			],
+			[
+				"blagcfc",
+				"app/cfc/blagajna.cfc"
+			],
+			[
+				"blagae",
+				"app/blagajna_e.cfm"
+			],
+			[
+				"blagajnae",
+				"app/blagajna_e.cfm"
+			],
+			[
+				"brisivsebino",
+				"app/tools/brisiVsebinoTabele.cfm"
+			],
+			[
+				"brisanjema",
+				"app/urnikiIzvajanje_brisanjeMailov.cfm"
+			],
+			[
+				"zzi",
+				"app/cfc/zzi.cfc"
+			],
+			[
+				"pisocfc",
+				"app/cfc/piso.cfc"
+			],
+			[
+				"elasticsearch",
+				"app/cfc/elasticSearch.cfc"
+			],
+			[
+				"saoptester",
+				"app/tools/saop_test_eRacuni2.cfm"
+			],
+			[
+				"oexprenosi",
+				"app/oex_prenosi.cfm"
+			],
+			[
+				"odosexchange",
+				"app/remote/odosExchange.cfc"
+			],
+			[
+				"oeengine",
+				"app/cfc/ODOS_exchange/oex_engine.cfc"
+			],
+			[
+				"oexprenosicfm",
+				"app/oex_prenosi.cfm"
+			],
+			[
+				"confcfg",
+				"app/config.cfg"
+			],
+			[
+				"doksis5pdpr",
+				"app/import/obcine/doksis5/25_exportPodPriloge.cfm"
+			],
+			[
+				"obcnarsglav",
+				"app/cfc/obcina_include_narisiGlavo.cfm"
+			],
+			[
+				"doksisexpodpri",
+				"app/import/obcine/doksis/25_exportPodPriloge.cfm"
+			],
+			[
+				"nabaplama",
+				"app/cfc/nabava_PLAMA.cfm"
+			],
+			[
+				"autpodpriloge",
+				"app/import/autoload_podPriloge.cfm"
+			],
+			[
+				"trdocument",
+				"app/cfc/ODOS_exchange/tr_Documents.cfc"
+			],
+			[
+				"blaane",
+				"app/blagajna_e.cfm"
+			],
+			[
+				"obcnarisgav",
+				"app/cfc/obcina_include_narisiGlavo.cfm"
+			],
+			[
+				"datjs",
+				"app/js/datoteke.js"
+			],
+			[
+				"gisjs",
+				"app/js/gis.js"
+			],
+			[
+				"funccfc",
+				"app/cfc/functions.cfc"
+			],
+			[
+				"mojezade",
+				"app/podrocja_mojeZadeve.cfm"
+			],
+			[
+				"podroczade",
+				"app/podrocja_zadeve.cfm"
+			],
+			[
+				"brisipodvojenesplnastavitve",
+				"app/tools/brisiPodvojeneSplNastavitve.cfm"
+			],
+			[
+				"minajs",
+				"install/Nightwatch/node_modules/nightwatch-html-reporter/node_modules/lodash/lang/isNative.js"
+			],
+			[
+				"zadcfc",
+				"app/cfc/zadeve.cfc"
+			],
+			[
+				"zadevetakse",
+				"app/zadeve_takse.cfm"
+			],
+			[
+				"gmapscfc",
+				"app/cfc/gmaps.cfc"
+			],
+			[
+				"zbirkanereseno",
+				"app/podrocja_zbirkaNereseno.cfm"
+			],
+			[
+				"pakimrcfc",
+				"app/cfc/paketiImport.cfc"
+			],
+			[
+				"paketiimport",
+				"app/paketi_import.cfm"
+			],
+			[
+				"abazadeve",
+				"app/nabava_zadeve.cfm"
+			],
+			[
+				"userclean",
+				"app/tools/users_clean.cfm"
+			],
+			[
+				"userssi",
+				"app/lang/users.si"
+			],
+			[
+				"trinvoice",
+				"app/cfc/ODOS_exchange/tr_Invoice.cfc"
+			],
+			[
+				"largo",
+				"app/cfc/largo.cfc"
+			],
+			[
+				"crpcfc",
+				"app/cfc/crp.cfc"
+			],
+			[
+				"crppartnerji_iskanje",
+				"app/crpPartnerji_iskanje.cfm"
+			],
+			[
+				"musereddraw",
+				"app/m_user_editor_draw.cfm"
+			],
+			[
+				"obcglavapos",
+				"app/cfc/obcina_include_glavaPost.cfm"
+			],
+			[
+				"conf",
+				"app/config.cfg"
+			],
+			[
+				"aaddcolumn",
+				"app/import/addcolumnlist.cfm"
+			],
+			[
+				"vobdelavi",
+				"app/delotoki_analiza_vObdelavi.cfm"
+			],
+			[
+				"aaddcolun",
+				"app/import/addcolumnlist.cfm"
+			],
+			[
+				"autparnerji",
+				"app/import/autoload_partnerjiObcin.cfm"
+			],
+			[
+				"doksis5part",
+				"app/import/obcine/doksis5/04_exportPartnerji.cfm"
+			],
+			[
+				"doksis5expou",
+				"app/import/obcine/doksis5/03_exportUporabniki.cfm"
+			],
+			[
+				"doksis5",
+				"app/import/obcine/doksis5/02_exportSignirji.cfm"
+			],
+			[
+				"doks5exopo",
+				"app/import/obcine/doksis/25_exportPodPriloge.cfm"
+			],
+			[
+				"blagaje",
+				"app/blagajna_e.cfm"
+			],
+			[
+				"includfile",
+				"app/m_includeFile.cfm"
+			],
+			[
+				"incfile",
+				"app/m_includeFile.cfm"
+			],
+			[
+				"datcfc",
+				"app/cfc/datoteke.cfc"
+			],
+			[
+				"udpatedbfun",
+				"install/Nightwatch/node_modules/nightwatch/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/stream-to-buffer/node_modules/stream-to/.npmignore"
+			],
+			[
+				"updatedbcfm",
+				"app/install/updateDB.cfm"
+			],
+			[
+				"urnikiizvajanjesourceupdate",
+				"app/urnikiIzvajanje_sourceUpdate.cfm"
+			],
+			[
+				"datoteke.cfc",
+				"app/cfc/datoteke.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sublime Text 2/Data/odos_enterpriseCF2016.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

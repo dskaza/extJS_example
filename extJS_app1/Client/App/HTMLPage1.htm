@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Simple GUI with tree, grid panel and form panel</title>
+    <link rel="stylesheet" type="text/css" href="resources/css/ext-all.css" />
+    <style type="text/css">
+	html, body {
+        font:normal 12px verdana;
+        margin:0;
+        padding:0;
+        border:0 none;
+        overflow:hidden;
+        height:100%;
+    }
+    #header {
+        background: #7F99BE url(./resources/images/layout-browser-hd-bg.gif) repeat-x center;
+    }
+	.x-panel-body p {
+	    margin:5px;
+	}
+    .x-column-layout-ct .x-panel {
+        margin-bottom:5px;
+    }
+    .x-column-layout-ct .x-panel-dd-spacer {
+        margin-bottom:5px;
+    }
+    .settings {
+        background-image:url(./resources/images/folder_wrench.png) !important;
+    }
+    .nav {
+        background-image:url(./resources/images/folder_go.png) !important;
+    }    
+    .red { background-color: red !important }
+    
+    </style>
+
+    <!-- GC -->
+    <!-- LIBS -->
+    <script type="text/javascript" src="../lib/Ext/ext-base.js"></script>
+    <!-- ENDLIBS -->
+    <script type="text/javascript" src="../lib/Ext/ext-all.js"></script>
+ <!-- 
+   <script type="text/javascript" src="../lib/Ext/ext-all-debug.js"></script> 
+-->
+    
+    <script type="text/javascript">        
+        Ext.onReady(function () {
+            //
+            // This is the main layout definition.
+            //
+            Ext.QuickTips.init();
+
+
+            try {
+                generateError({
+                    foo: 'bar'
+                });
+            }
+            catch (e) {
+                console.error(e);
+            }
+            function generateError(data) {
+                throw new Ext.Error('foo-error', data);
+            }
+
+            var myDiv = document.getElementById('south');
+            console.log(myDiv);
+            console.error(myDiv);
+            myDiv = Ext.get('south');
+            console.log(myDiv);
+            
+            myDiv.highlight();      // The element's background will highlight to yellow then fade back
+            myDiv.addClass('red');  // Add a custom CSS class (defined in ExtStart.css)
+            myDiv.applyStyles({ 'background-color': 'green !important' });  // Add a custom CSS class (defined in ExtStart.css)
+            myDiv.center();         // Center the element in the viewport
+            myDiv.setOpacity(.25);  // Make the element partially-transparent
+            console.log(myDiv);
+/*
+            Ext.define('Ext.Component', {
+                style: {},
+                initComponent: function (config) {
+                    this.callParent(config);
+                    this.style['background-color'] = 'red';
+                }
+            });
+*/            
+        });
+    </script>
+</head>
+<body>
+<br />
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+<!-- <a href="Store/users.json" target="_blank">Open JSON file</a><br /> -->
+    <!-- <div id="header"><h1>EXT Simple GUI</h1></div> -->
+    <div id="south">
+        <p>© 2016 Denis Skaza</p>
+    </div>    
+
+</body>
+</html>
