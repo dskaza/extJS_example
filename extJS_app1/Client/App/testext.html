@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Simple GUI with tree, grid panel and form panel</title>
+    <link rel="stylesheet" type="text/css" href="resources/css/ext-all.css" />
+    <style type="text/css">
+	html, body {
+        font:normal 12px verdana;
+        margin:0;
+        padding:0;
+        border:0 none;
+        overflow:hidden;
+        height:100%;
+    }
+    #header {
+        background: #7F99BE url(./resources/images/layout-browser-hd-bg.gif) repeat-x center;
+    }
+	.x-panel-body p {
+	    margin:5px;
+	}
+    .x-column-layout-ct .x-panel {
+        margin-bottom:5px;
+    }
+    .x-column-layout-ct .x-panel-dd-spacer {
+        margin-bottom:5px;
+    }
+    .settings {
+        background-image:url(./resources/images/folder_wrench.png) !important;
+    }
+    .nav {
+        background-image:url(./resources/images/folder_go.png) !important;
+    }
+    </style>
+
+    <!-- GC -->
+    <!-- LIBS -->
+    <script type="text/javascript" src="../lib/Ext/ext-base.js"></script>
+    <!-- ENDLIBS -->
+    <script type="text/javascript" src="../lib/Ext/ext-all.js"></script>
+ <!-- 
+   <script type="text/javascript" src="../lib/Ext/ext-all-debug.js"></script> 
+-->
+    <script type="text/javascript" src="Store/states.js"></script> <!-- user roles for combobox -->
+    
+    <!-- Tabs Example Files -->
+    <link rel="stylesheet" type="text/css" href="resources/css/tabs-example.css" />
+
+    <sc
+
+    <!-- panels -->
+    <script type="text/javascript" src="script/basic.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="resources/css/grid-examples.css" />    
+    <link rel="stylesheet" type="text/css" href="resources/css/forms.css" />
+    <!-- APP -->
+    <script type="text/javascript" src="script/app.js"></script>
+    
+    <script type="text/javascript">        
+        Ext.BLANK_IMAGE_URL = '../../resources/images/default/s.gif';    
+
+        var myDiv = document.getElementById('myDiv');
+        myDiv.highlight();      // The element's background will highlight to yellow then fade back
+        myDiv.addClass('red');  // Add a custom CSS class (defined in ExtStart.css)
+        myDiv.center();         // Center the element in the viewport
+        myDiv.setOpacity(.25);  // Make the element partially-transparent
+
+        Ext.onReady(function(){
+
+            alert("Congratulations!  You have Ext configured correctly!");
+
+            console.log(Ext.select('p'));
+
+            Ext.select('p').highlight();
+            Ext.select('p.myClass').highlight();
+
+            var myDiv = Ext.get('myDiv');
+
+            var html = '<a id="{id}" href="{url}" class="nav">{text}</a>';
+            var tpl = Ext.DomHelper.createTemplate(html);
+
+            tpl.append('myDiv', {
+                id: 'link1',
+                url: 'http://www.jackslocum.com/',
+                text: "Jack's Site"
+
+            });
+            tpl.append('myDiv', {
+                id: 'link2',
+                url: 'http://www.dustindiaz.com/',
+                text: "Dustin's Site"
+            });           
+            
+            tpl.compile();
+
+            //... use template like normal
+
+        }); //end onReady
+
+
+
+
+    </script>
+</head>
+<body>
+    <div id="myDiv">This is a test div.</div>
+    <input type="button" id="myButton" value="My Button" />
+
+    <p>first paragraph</p>
+<p class="myClass">second paragraph</p>
+<p>third one</p>
+
+</body>
+</html>
